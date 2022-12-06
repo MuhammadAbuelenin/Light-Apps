@@ -1,1 +1,1 @@
-# Light-Apps
+# Lite-Apps
